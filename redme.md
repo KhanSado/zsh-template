@@ -1,4 +1,0 @@
-# ZSH TEMPLATE
-
-### Usage mode
-
